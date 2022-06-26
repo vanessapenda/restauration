@@ -2,38 +2,38 @@
   {
     "placeImage": "images/ndole.png",
     "placeName": "Le Ndole",
-    "placeItems": ["crevette","camerounais","bamileke"],
-    "minOrder": 20
+    "placeItems": ["ndole crevette","bobolo","frite de plantain"],
+    "minOrder": 1500
   },
   {
     "placeImage": "images/bouillon.png",
     "placeName": "Le Bouillon",
-    "placeItems": ["viande","douala","bamoun"],
-    "minOrder": 50
+    "placeItems": ["viande","pimenté","épicé"],
+    "minOrder": 2000
   },
   {
     "placeImage": "images/fufu.png",
     "placeName": "Le Fufu",
-    "placeItems": ["piment","beti","bamileke"],
-    "minOrder": 20
+    "placeItems": ["couscous","légume","crevette"],
+    "minOrder": 1500
   },
   {
     "placeImage": "images/trip.png",
-    "placeName": "Les Trip",
-    "placeItems": ["tendre","camerounais","boulou"],
-    "minOrder": 40
+    "placeName": "Les Trip satuté",
+    "placeItems": ["roignon","foie","trip"],
+    "minOrder": 4000
   },
   {
     "placeImage": "images/poulet.png",
     "placeName": "Le Poulet",
-    "placeItems": ["roti","camerounais","villes"],
-    "minOrder": 20
+    "placeItems": ["poulet","oeuf","riz sauté"],
+    "minOrder": 3000
   },
   {
     "placeImage": "images/congres.png",
     "placeName": "Le Congres",
-    "placeItems": ["crevette","camerounais","bamileke"],
-    "minOrder": 50
+    "placeItems": ["peau de boeuf","couscous mais","soupe"],
+    "minOrder": 2500
   }
 
 ]

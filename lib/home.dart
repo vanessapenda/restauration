@@ -4,7 +4,7 @@ import 'connexion.dart';
 
 import 'package:flutter/material.dart';
 
-var bannerItems = ["bouillon", "ndole", "riz", "poulet", "okok", "fufu"];
+var bannerItems = ["Bouillon", "Ndole", "Riz", "Poulet", "Okok", "Fufu"];
 var bannerImage = [
   "images/bouillon.png",
   "images/ndole.png",
@@ -85,7 +85,7 @@ class Home extends StatelessWidget {
                           ),
                         ),
                         Text(
-                          "Min. Commandes: ${object["minOrder"]}",
+                          "Prix: ${object["minOrder"]}",
                           style:
                               const TextStyle(fontSize: 12.0, color: Colors.black54),
                         )
@@ -104,7 +104,7 @@ class Home extends StatelessWidget {
 
     return Scaffold(
         appBar: AppBar(
-          title: const Text("DORA FOOD"),
+          title: const Text("DORA FOODS"),
         ),
         body: Container(
           height: screenHeight,
@@ -204,7 +204,7 @@ class BannerWidgetArea extends StatelessWidget {
                   gradient: LinearGradient(
                       begin: Alignment.topCenter,
                       end: Alignment.bottomCenter,
-                      colors: [Colors.transparent, Colors.black]),
+                      colors: [Colors.transparent, Colors.black45]),
                 ),
               ),
               Padding(
@@ -219,7 +219,7 @@ class BannerWidgetArea extends StatelessWidget {
                           const TextStyle(fontSize: 12.0, color: Colors.white),
                     ),
                     const Text(
-                      "merci beaucoup",
+                      "Menu du jour",
                       style: TextStyle(fontSize: 12.0, color: Colors.white),
                     ),
                   ],
