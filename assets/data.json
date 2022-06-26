@@ -1,0 +1,39 @@
+[
+  {
+    "placeImage": "images/ndole.png",
+    "placeName": "Le Ndole",
+    "placeItems": ["crevette","camerounais","bamileke"],
+    "minOrder": 20
+  },
+  {
+    "placeImage": "images/bouillon.png",
+    "placeName": "Le Bouillon",
+    "placeItems": ["viande","douala","bamoun"],
+    "minOrder": 50
+  },
+  {
+    "placeImage": "images/fufu.png",
+    "placeName": "Le Fufu",
+    "placeItems": ["piment","beti","bamileke"],
+    "minOrder": 20
+  },
+  {
+    "placeImage": "images/trip.png",
+    "placeName": "Les Trip",
+    "placeItems": ["tendre","camerounais","boulou"],
+    "minOrder": 40
+  },
+  {
+    "placeImage": "images/poulet.png",
+    "placeName": "Le Poulet",
+    "placeItems": ["roti","camerounais","villes"],
+    "minOrder": 20
+  },
+  {
+    "placeImage": "images/congres.png",
+    "placeName": "Le Congres",
+    "placeItems": ["crevette","camerounais","bamileke"],
+    "minOrder": 50
+  }
+
+]
